@@ -1,0 +1,1 @@
+The Airbnb Clone is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that replicates the core functionality of Airbnb. The application allows users to browse, book, and list accommodations, providing a seamless experience for both travelers and property owners.
