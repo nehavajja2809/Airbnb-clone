@@ -4,7 +4,7 @@ The Airbnb Clone is a full-stack web application built using the MERN stack (Mon
 
  create .env file in the client folder and add these variables
 
-VITE_BASE_URL= http://localhost:4000
+VITE_BASE_URL= http://localhost:8000
 
 VITE_GOOGLE_CLIENT_ID= your google client id
 
@@ -22,12 +22,16 @@ create .env file in the api folder and add these variables
 	•	CLIENT_URL= http://localhost:5186
 
 
+
 2. Run project:
 
-Open terminal, navigate to client directory and run below command to start frontend
+Open terminal, navigate to client directory and run below command to start frontend.
   ->  npm run dev
-Open another terminal, navigate to api directory and run this command to start backend server
+  
+Open another terminal, navigate to api directory and run this command to start backend server.
   ->  npm start
+
+
 
 Features
 
