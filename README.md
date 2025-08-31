@@ -10,13 +10,13 @@ VITE_GOOGLE_CLIENT_ID= your google client id
 
 create .env file in the api folder and add these variables
 
-PORT= 4000
+PORT= 8000
 
 DB_URL= your db url
 
 JWT_SECRET= your secret (string)
 
-JWT_EXPIRY= 20d
+JWT_EXPIRY= 7d
 
 COOKIE_TIME= 7
 
@@ -28,7 +28,7 @@ CLOUDINARY_API_KEY= your cloudinary key
 
 CLOUDINARY_API_SECRET= your cloudinary api secret
 
-CLIENT_URL= http://localhost:5173
+CLIENT_URL= http://localhost:5186
 
 Run project:
 
