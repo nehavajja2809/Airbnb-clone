@@ -25,9 +25,9 @@ create .env file in the api folder and add these variables
 2. Run project:
 
 Open terminal, navigate to client directory and run below command to start frontend
-    yarn run dev
+  ->  npm run dev
 Open another terminal, navigate to api directory and run this command to start backend server
-    yarn start
+  ->  npm start
 
 Features
 
