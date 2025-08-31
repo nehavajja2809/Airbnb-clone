@@ -23,7 +23,7 @@ create .env file in the api folder and add these variables
 
 
 
-2. Run project:
+ 2. Run project:
 
 Open terminal, navigate to client directory and run below command to start frontend.
   ->  npm run dev
@@ -33,7 +33,7 @@ Open another terminal, navigate to api directory and run this command to start b
 
 
 
-Features
+Features:
 
 User Authentication: Users can sign up, log in, and log out securely. Passwords are hashed for security.
 
