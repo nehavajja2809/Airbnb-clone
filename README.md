@@ -37,9 +37,11 @@ Features
 
 User Authentication: Users can sign up, log in, and log out securely. Passwords are hashed for security.
 
+
 Google Login: Users can sign up and log in using their gmail.
 
 <img width="1920" height="1080" alt="auth" src="https://github.com/user-attachments/assets/b6279b82-5c07-4eda-84f0-3a212c7cd95e" />
+
 
 
 Search Listings: Users can search for accommodations.
@@ -47,19 +49,23 @@ Search Listings: Users can search for accommodations.
 <img width="2560" height="1121" alt="search" src="https://github.com/user-attachments/assets/9f01c81c-c73e-4feb-9408-027f8ef1d5ca" />
 
 
+
 View Listings: Users can view detailed information about each accommodation, including photos, descriptions, amenities.
 
 <img width="2560" height="1369" alt="image" src="https://github.com/user-attachments/assets/b726be66-23c4-4c0b-9924-1ad0a2b0fd65" />
 
 
- Make Bookings: Authenticated users can book accommodations for specific dates.
+
+Make Bookings: Authenticated users can book accommodations for specific dates.
 
 <img width="1977" height="1112" alt="image" src="https://github.com/user-attachments/assets/6f5b003f-6b05-4d6f-b339-045bcbd0d797" />
+
 
 
 Manage Listings: Hosts can create, edit, and delete their listings.
 
 <img width="2560" height="1214" alt="image" src="https://github.com/user-attachments/assets/564fd1be-b407-4c5a-9b85-3bded3db125f" />
+
 
 
 Responsive Design: The application is designed to be responsive and work seamlessly across different devices.
